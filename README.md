@@ -53,4 +53,3 @@ The notebook produces a **merged model without PEFT dependencies**, which can be
 
 - deployed directly
 - further quantized
-- exported to formats such as **GGUF** for inference frameworks like `llama.cpp`
