@@ -1,5 +1,4 @@
 # DPO-Fine-Tuning
-# DPO Fine-Tuning LLaMA-3 with QLoRA and TRL (Kaggle T4)
 
 This notebook demonstrates **Direct Preference Optimization (DPO)** fine-tuning of a **LLaMA-3 language model** using **QLoRA, TRL, and the UltraFeedback dataset**, designed to run efficiently on a **single Kaggle NVIDIA T4 GPU**.
 
