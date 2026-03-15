@@ -1,5 +1,6 @@
 ## Kaggle Notebook
 
-full experiment on Kaggle Notebook:
+The full experiment (training, inference, and LoRA merging) can be run on Kaggle:
 
-🔗 [DPO Fine-Tuning Notebook](https://www.kaggle.com/code/omarrashdan/dpo-fine-tuning)
+🔗 **the notebook:**  
+[DPO Fine-Tuning Notebook](https://www.kaggle.com/code/omarrashdan/dpo-fine-tuning)
